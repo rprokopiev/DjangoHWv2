@@ -1,0 +1,11 @@
+INFO 2024-02-12 14:20:14,866 autoreload 13044 7416 Watching for file changes with StatReloader
+INFO 2024-02-12 14:22:06,923 autoreload 3456 13088 Watching for file changes with StatReloader
+INFO 2024-02-12 14:22:21,365 views 3456 15776 INDEX page raised
+INFO 2024-02-12 14:22:21,366 basehttp 3456 15776 "GET / HTTP/1.1" 200 63
+WARNING 2024-02-12 14:22:21,602 log 3456 15776 Not Found: /favicon.ico
+WARNING 2024-02-12 14:22:21,602 basehttp 3456 15776 "GET /favicon.ico HTTP/1.1" 404 2813
+INFO 2024-02-12 14:22:27,693 basehttp 3456 18776 "GET /main HTTP/1.1" 301 0
+INFO 2024-02-12 14:22:27,698 views 3456 9836 MAIN page raised
+INFO 2024-02-12 14:22:27,699 basehttp 3456 9836 "GET /main/ HTTP/1.1" 200 62
+INFO 2024-02-12 14:22:31,528 views 3456 9836 ABOUT page raised
+INFO 2024-02-12 14:22:31,530 basehttp 3456 9836 "GET /about/ HTTP/1.1" 200 66
